@@ -1,0 +1,37 @@
+upgrad@upgrad-VirtualBox:~/workspace/pharma-network/network$ docker images -a
+REPOSITORY                                                                                                                 TAG                 IMAGE ID            CREATED             SIZE
+dev-peer0.distributor.pharma-network.com-pharmanet-1.1-d6cbc72fbbedc3a5d7c6823a4adb814cf4b83f53b14935ac5e1b30ffc19e6b12    latest              b0f5abf4cfed        45 hours ago        1.55GB
+<none>                                                                                                                     <none>              89da026b31f4        45 hours ago        1.55GB
+<none>                                                                                                                     <none>              fbf45bad5a01        45 hours ago        1.55GB
+dev-peer0.transporter.pharma-network.com-pharmanet-1.1-6fbb3cff19badbd63e61939b5749a095b0c24b7d447f7cd37c9dbb7b0a21515d    latest              80b0301493d7        2 days ago          1.55GB
+<none>                                                                                                                     <none>              995c069c659b        2 days ago          1.55GB
+<none>                                                                                                                     <none>              6b8ceb4e2441        2 days ago          1.55GB
+dev-peer0.manufacturer.pharma-network.com-pharmanet-1.2-98f1d21f7bb57d0bc106c8d7be428aa17f8ffb3aad742b5f444378c2398eefd7   latest              068148b94940        7 days ago          1.55GB
+<none>                                                                                                                     <none>              dd996b80e432        7 days ago          1.55GB
+<none>                                                                                                                     <none>              de6aa7fbbc1b        7 days ago          1.55GB
+dev-peer0.manufacturer.pharma-network.com-pharmanet-1.1-941d9f41fb3927bb09dd9345376e89e8c838651f9ca9196ab5ff6d70be099b48   latest              74fde335ff29        7 days ago          1.55GB
+<none>                                                                                                                     <none>              652d40f19055        7 days ago          1.55GB
+<none>                                                                                                                     <none>              ff390ab3544d        7 days ago          1.55GB
+dev-peer0.manufacturer.pharma-network.com-certnet-1.1-438b09964339ee824e078372675cfde83dc584e317ec86236faaea7ae7a1b275     latest              06ea8700fbcd        7 days ago          1.55GB
+<none>                                                                                                                     <none>              b4fd4060d514        7 days ago          1.55GB
+<none>                                                                                                                     <none>              a4a960314798        7 days ago          1.55GB
+hyperledger/fabric-tools                                                                                                   1.4.3               18ed4db0cd57        3 months ago        1.55GB
+hyperledger/fabric-tools                                                                                                   latest              18ed4db0cd57        3 months ago        1.55GB
+hyperledger/fabric-ca                                                                                                      1.4.3               c18a0d3cc958        3 months ago        253MB
+hyperledger/fabric-ca                                                                                                      latest              c18a0d3cc958        3 months ago        253MB
+hyperledger/fabric-ccenv                                                                                                   1.4.3               3d31661a812a        3 months ago        1.45GB
+hyperledger/fabric-ccenv                                                                                                   latest              3d31661a812a        3 months ago        1.45GB
+hyperledger/fabric-orderer                                                                                                 1.4.3               b666a6ebbe09        3 months ago        173MB
+hyperledger/fabric-orderer                                                                                                 latest              b666a6ebbe09        3 months ago        173MB
+hyperledger/fabric-peer                                                                                                    1.4.3               fa87ccaed0ef        3 months ago        179MB
+hyperledger/fabric-peer                                                                                                    latest              fa87ccaed0ef        3 months ago        179MB
+hyperledger/fabric-javaenv                                                                                                 1.4.3               5ba5ba09db8f        4 months ago        1.76GB
+hyperledger/fabric-javaenv                                                                                                 latest              5ba5ba09db8f        4 months ago        1.76GB
+hyperledger/fabric-zookeeper                                                                                               0.4.15              20c6045930c8        9 months ago        1.43GB
+hyperledger/fabric-zookeeper                                                                                               latest              20c6045930c8        9 months ago        1.43GB
+hyperledger/fabric-kafka                                                                                                   0.4.15              b4ab82bbaf2f        9 months ago        1.44GB
+hyperledger/fabric-kafka                                                                                                   latest              b4ab82bbaf2f        9 months ago        1.44GB
+hyperledger/fabric-couchdb                                                                                                 0.4.15              8de128a55539        9 months ago        1.5GB
+hyperledger/fabric-couchdb                                                                                                 latest              8de128a55539        9 months ago        1.5GB
+hyperledger/fabric-baseimage                                                                                               amd64-0.4.15        c4c532c23a50        9 months ago        1.39GB
+hyperledger/fabric-baseos                                                                                                  amd64-0.4.15   
